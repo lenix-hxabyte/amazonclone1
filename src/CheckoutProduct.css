@@ -1,0 +1,23 @@
+.checkoutProduct{
+    display: flex;
+}
+.checkoutProduct_image {
+    object-fit: contain;
+    width: 180px;
+    height: 180px;
+}
+
+.checkoutProduct_info{
+    padding-left: 30px;
+    font-variant: small-caps;
+}
+
+.checkoutProduct_info > button {
+    background:lightsalmon;
+    border-radius:  10px;
+    font-variant: small-caps;
+}
+
+.checkout {
+    display: flex;
+}
