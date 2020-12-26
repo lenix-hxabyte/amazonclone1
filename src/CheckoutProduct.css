@@ -1,5 +1,6 @@
 .checkoutProduct{
     display: flex;
+    margin-bottom: 10px;
 }
 .checkoutProduct_image {
     object-fit: contain;
@@ -19,5 +20,9 @@
 }
 
 .checkout {
+    display: flex;
+}
+
+.checkoutProduct_rating{
     display: flex;
 }
