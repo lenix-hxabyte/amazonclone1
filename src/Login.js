@@ -1,9 +1,20 @@
 import React from 'react'
 import "./Login.css"
+import { Link } from "react-router-dom"
+
+
+
 function Login() {
     return (
-        <div>
-            <h1>Login Page</h1>
+        <div className="login">
+            <Link to="/">
+             <img 
+            className="header_logo"
+            src="hexabyte2.jpg"
+            alt=""
+            />
+            </Link>
+            
         </div>
     )
 }

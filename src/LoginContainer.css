@@ -1,0 +1,11 @@
+.login_container{
+    height: fit-content;
+    display: flex;
+    flex-direction: column; 
+    margin-left: 50px;
+    border: 9px solid white;
+    padding: 30px;
+    background-color: lightcoral;
+    
+    border-radius: 70px;
+}

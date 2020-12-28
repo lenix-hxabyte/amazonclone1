@@ -1,0 +1,16 @@
+.login{
+     background-color: rgb(0, 0, 0);
+    display:flex;
+    align-items: center;
+     position: sticky;
+    margin-bottom: 50px;
+    
+    font-variant: small-caps;
+}
+
+.login >img {
+    align-items: center;
+    margin-left: 50px;
+    display: flex;
+}
+.login_container{}
